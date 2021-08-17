@@ -4,7 +4,7 @@
 
 - 🔭 I just completed my first software engineering internship over the summer with [Housing and Development Board][hdb]!
 - 🌱 I’m currently interning part-time at [NUS FinTech Lab][nus-fintech-lab] while studying
-- 👯 I’m looking to collaborate with other content creators on open-source projects
+- 👯 I’m looking to collaborate with other content creators on open source projects
 - ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs
 
 ### Connect with me:
