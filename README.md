@@ -32,9 +32,11 @@
 
 ---
 
+<details>
 <summary>:zap: GitHub Stats</summary>
   <img alt="Kenny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kswk&show_icons=true&theme=algolia" />
-
+</details>
+  
 ---
 
 [hdb]: https://www.hdb.gov.sg/cs/infoweb/homepage/
