@@ -3,7 +3,7 @@
 ## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
 
 - 🔭 I just completed my first software engineering internship over the summer with [Housing and Development Board][hdb]!
-- 🌱 I’m currently interning part-time at NUS FinTech Lab while studying
+- 🌱 I’m currently interning part-time at [NUS FinTech Lab][nus-fintech-lab] while studying
 - 👯 I’m looking to collaborate with other content creators on open-source projects
 - ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs
 
@@ -32,16 +32,17 @@
 
 ---
 
-[hdb]: https://www.hdb.gov.sg/cs/infoweb/homepage
-[linkedin]: https://www.linkedin.com/in/kenny-seet-530425136
+[hdb]: https://www.hdb.gov.sg/cs/infoweb/homepage/
+[nus-fintech-lab]: https://fintechlab.nus.edu.sg/
+[linkedin]: https://www.linkedin.com/in/kenny-seet-530425136/
 [java]: https://www.oracle.com/java/
 [python]: https://www.python.org/
 [postgresql]: https://www.postgresql.org/
 [javascript]: https://www.javascript.com/
-[c]: https://www.iso.org/standard/74528.html
+[c]: https://www.iso.org/standard/74528.html/
 [uipath]: https://www.uipath.com/
 [nodejs]: https://nodejs.org/en/
 [react]: https://reactjs.org/
 [javafx]: https://openjfx.io/
 [wordpress]: https://wordpress.com/
-[matlab]: https://www.mathworks.com/products/matlab.html
+[matlab]: https://www.mathworks.com/products/matlab.html/
