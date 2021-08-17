@@ -16,16 +16,16 @@
 ### Languages and Tools:
 
 [<img align="left" alt="java" height="35" width="auto" src="images/java.png" />][java]
-[<img align="left" alt="java" height="35" width="auto" src="images/python.png" />][python]
-[<img align="left" alt="java" height="35" width="auto" src="images/postgresql.png" />][postgresql]
-[<img align="left" alt="java" height="35" width="auto" src="images/javascript.png" />][javascript]
-[<img align="left" alt="java" height="35" width="auto" src="images/c.png" />][c]
-[<img align="left" alt="java" height="35" width="auto" src="images/uipath.png" />][uipath]
-[<img align="left" alt="java" height="35" width="auto" src="images/nodejs.png" />][nodejs]
-[<img align="left" alt="java" height="35" width="auto" src="images/react.png" />][react]
-[<img align="left" alt="java" height="35" width="auto" src="images/javafx.png" />][javafx]
-[<img align="left" alt="java" height="35" width="auto" src="images/wordpress.png" />][wordpress]
-[<img align="left" alt="java" height="35" width="auto" src="images/matlab.png" />][matlab]
+[<img align="left" alt="python" height="35" width="auto" src="images/python.png" />][python]
+[<img align="left" alt="postgresql" height="35" width="auto" src="images/postgresql.png" />][postgresql]
+[<img align="left" alt="javascript" height="35" width="auto" src="images/javascript.png" />][javascript]
+[<img align="left" alt="c" height="35" width="auto" src="images/c.png" />][c]
+[<img align="left" alt="uipath" height="35" width="auto" src="images/uipath.png" />][uipath]
+[<img align="left" alt="nodejs" height="35" width="auto" src="images/nodejs.png" />][nodejs]
+[<img align="left" alt="react" height="35" width="auto" src="images/react.png" />][react]
+[<img align="left" alt="javafx" height="35" width="auto" src="images/javafx.png" />][javafx]
+[<img align="left" alt="wordpress" height="35" width="auto" src="images/wordpress.png" />][wordpress]
+[<img align="left" alt="matlab" height="35" width="auto" src="images/matlab.png" />][matlab]
 
 <br />
 <br />
