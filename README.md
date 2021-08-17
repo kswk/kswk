@@ -1,4 +1,4 @@
-### Hi there, I'm Kenny 👋
+### Hi there, I'm Kenny! 👋
 
 ## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
 
