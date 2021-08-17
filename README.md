@@ -2,7 +2,7 @@
 
 ## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
 
-- 🔭 I just completed my first internship over the summer with the [Housing and Development Board][hdb]!
+- 🔭 I just completed my first software engineering internship over the summer with [Housing and Development Board][hdb]!
 - 🌱 I’m currently interning part-time at NUS FinTech Lab while studying
 - 👯 I’m looking to collaborate with other content creators on open-source projects
 - ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs
