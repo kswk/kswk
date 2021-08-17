@@ -15,20 +15,25 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="java" height="35" width="auto" src="images/java.png" />][java]
-[<img align="left" alt="python" height="35" width="auto" src="images/python.png" />][python]
-[<img align="left" alt="postgresql" height="35" width="auto" src="images/postgresql.png" />][postgresql]
-[<img align="left" alt="javascript" height="35" width="auto" src="images/javascript.png" />][javascript]
-[<img align="left" alt="c" height="35" width="auto" src="images/c.png" />][c]
-[<img align="left" alt="uipath" height="35" width="auto" src="images/uipath.png" />][uipath]
-[<img align="left" alt="nodejs" height="35" width="auto" src="images/nodejs.png" />][nodejs]
-[<img align="left" alt="react" height="35" width="auto" src="images/react.png" />][react]
-[<img align="left" alt="javafx" height="35" width="auto" src="images/javafx.png" />][javafx]
-[<img align="left" alt="wordpress" height="35" width="auto" src="images/wordpress.png" />][wordpress]
-[<img align="left" alt="matlab" height="35" width="auto" src="images/matlab.png" />][matlab]
+[<img align="left" alt="Java" height="35" width="auto" src="images/java.png" />][java]
+[<img align="left" alt="Python" height="35" width="auto" src="images/python.png" />][python]
+[<img align="left" alt="PostgreSQL" height="35" width="auto" src="images/postgresql.png" />][postgresql]
+[<img align="left" alt="JavaScript" height="35" width="auto" src="images/javascript.png" />][javascript]
+[<img align="left" alt="C" height="35" width="auto" src="images/c.png" />][c]
+[<img align="left" alt="UiPath" height="35" width="auto" src="images/uipath.png" />][uipath]
+[<img align="left" alt="Nodejs" height="35" width="auto" src="images/nodejs.png" />][nodejs]
+[<img align="left" alt="React" height="35" width="auto" src="images/react.png" />][react]
+[<img align="left" alt="JavaFX" height="35" width="auto" src="images/javafx.png" />][javafx]
+[<img align="left" alt="WordPress" height="35" width="auto" src="images/wordpress.png" />][wordpress]
+[<img align="left" alt="MATLAB" height="35" width="auto" src="images/matlab.png" />][matlab]
 
 <br />
 <br />
+
+---
+
+<summary>:zap: GitHub Stats</summary>
+  <img alt="Kenny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kswk&show_icons=true&theme=algolia" />
 
 ---
 
