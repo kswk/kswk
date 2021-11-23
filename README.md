@@ -21,10 +21,14 @@
 [<img align="left" alt="JavaScript" height="35" width="auto" src="images/javascript.png" />][javascript]
 [<img align="left" alt="C" height="35" width="auto" src="images/c.png" />][c]
 [<img align="left" alt="UiPath" height="35" width="auto" src="images/uipath.png" />][uipath]
+[<img align="left" alt="Hadoop" height="35" width="auto" src="images/hadoop.png" />][hadoop]
+[<img align="left" alt="Spark" height="35" width="auto" src="images/spark.png" />][spark]
+[<img align="left" alt="MongoDB" height="35" width="auto" src="images/mongodb.png" />][mongodb]
 [<img align="left" alt="Nodejs" height="35" width="auto" src="images/nodejs.png" />][nodejs]
 [<img align="left" alt="React" height="35" width="auto" src="images/react.png" />][react]
 [<img align="left" alt="JavaFX" height="35" width="auto" src="images/javafx.png" />][javafx]
 [<img align="left" alt="WordPress" height="35" width="auto" src="images/wordpress.png" />][wordpress]
+[<img align="left" alt="Figma" height="35" width="auto" src="images/figma.png" />][figma]
 [<img align="left" alt="MATLAB" height="35" width="auto" src="images/matlab.png" />][matlab]
 
 <br />
@@ -47,8 +51,12 @@
 [javascript]: https://www.javascript.com/
 [c]: https://www.iso.org/standard/74528.html/
 [uipath]: https://www.uipath.com/
+[Hadoop]: https://hadoop.apache.org/
+[Spark]: https://spark.apache.org/
+[MongoDB]: https://www.mongodb.com/
 [nodejs]: https://nodejs.org/en/
 [react]: https://reactjs.org/
 [javafx]: https://openjfx.io/
 [wordpress]: https://wordpress.com/
+[figma]: https://figma.com/
 [matlab]: https://www.mathworks.com/products/matlab.html/
