@@ -44,7 +44,7 @@
 ---
 
 [hdb]: https://www.hdb.gov.sg/cs/infoweb/homepage/
-[linkedin]: https://www.linkedin.com/in/kenny-seet-530425136/
+[linkedin]: https://www.linkedin.com/in/kenny-seet/
 [java]: https://www.oracle.com/java/
 [python]: https://www.python.org/
 [postgresql]: https://www.postgresql.org/
