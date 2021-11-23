@@ -2,8 +2,8 @@
 
 ## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
 
-- 🔭 I just completed my first software engineering internship over the summer with [Housing and Development Board][hdb]!
-- 🌱 I’m currently interning part-time at [NUS FinTech Lab][nus-fintech-lab] while studying
+- 🔭 I just completed my first software engineering internship over the summer with [Housing and Development Board][hdb]
+- 🌱 I’m currently looking for an internship for Summer 2022
 - 👯 I’m looking to collaborate with other developers on open source projects
 - ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs
 
@@ -40,7 +40,6 @@
 ---
 
 [hdb]: https://www.hdb.gov.sg/cs/infoweb/homepage/
-[nus-fintech-lab]: https://fintechlab.nus.edu.sg/
 [linkedin]: https://www.linkedin.com/in/kenny-seet-530425136/
 [java]: https://www.oracle.com/java/
 [python]: https://www.python.org/
