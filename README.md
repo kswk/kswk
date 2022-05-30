@@ -2,10 +2,9 @@
 
 ## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
 
-- 🔭 I just completed my first software engineering internship over the summer with [Housing and Development Board][hdb]
-- 🌱 I’m currently looking for an internship for Summer 2022
-- 👯 I’m looking to collaborate with other developers on open source projects
-- ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs
+- 🔭 I'm currently interning as a Machine Learning Engineer at [DSO National Laboratories][dso].
+- 🌱 I’m currently researching about building Deep Learning models on Keras.
+- ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs.
 
 ### Connect with me:
 
@@ -43,7 +42,7 @@
   
 ---
 
-[hdb]: https://www.hdb.gov.sg/cs/infoweb/homepage/
+[dso]: https://www.dso.org.sg/
 [linkedin]: https://www.linkedin.com/in/kenny-seet/
 [java]: https://www.oracle.com/java/
 [python]: https://www.python.org/
