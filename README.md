@@ -1,6 +1,6 @@
 ### Hi there, I'm Kenny! 👋
 
-## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
+## I'm a ultimate Computer Science student studying in the National University of Singapore (NUS)!
 
 - 🔭 I'm currently interning as a Machine Learning Engineer at [DSO National Laboratories][dso].
 - 🌱 I’m currently researching about building Deep Learning models on Keras.
