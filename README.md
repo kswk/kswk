@@ -1,6 +1,6 @@
 ### Hi there, I'm Kenny 👋
 
-## I'm a penultimate Computer Science student studying in the National University of Singapore (NUS)!
+## I'm a final-year Computer Science student studying in the National University of Singapore (NUS)!
 
 - 🔭 I'm currently searching for a full-time Software Engineering role.
 - 🌱 At the moment, I’m learning Django and researching about building Deep Learning models on Keras.
