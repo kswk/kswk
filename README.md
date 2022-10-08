@@ -2,8 +2,8 @@
 
 ## I'm a ultimate Computer Science student studying in the National University of Singapore (NUS)!
 
-- 🔭 I'm currently interning as a Machine Learning Engineer at [DSO National Laboratories][dso].
-- 🌱 I’m currently researching about building Deep Learning models on Keras.
+- 🔭 I'm currently searching for a full-time Software Engineering role.
+- 🌱 At the moment, I’m learning Django and researching about building Deep Learning models on Keras.
 - ⚡ Fun fact: I enjoy playing the guitar, listening to music, and reading up on current world affairs.
 
 ### Connect with me:
@@ -39,16 +39,15 @@
   
 ---
 
-[dso]: https://www.dso.org.sg/
 [linkedin]: https://www.linkedin.com/in/kenny-seet/
 [java]: https://www.oracle.com/java/
 [python]: https://www.python.org/
 [postgresql]: https://www.postgresql.org/
 [javascript]: https://www.javascript.com/
 [c]: https://www.iso.org/standard/74528.html/
-[Hadoop]: https://hadoop.apache.org/
-[Spark]: https://spark.apache.org/
-[MongoDB]: https://www.mongodb.com/
+[hadoop]: https://hadoop.apache.org/
+[spark]: https://spark.apache.org/
+[mongodb]: https://www.mongodb.com/
 [nodejs]: https://nodejs.org/en/
 [react]: https://reactjs.org/
 [matlab]: https://www.mathworks.com/products/matlab.html/
